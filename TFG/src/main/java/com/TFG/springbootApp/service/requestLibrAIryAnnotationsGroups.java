@@ -1,5 +1,6 @@
 package com.TFG.springbootApp.service;
 
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import org.apache.commons.io.IOUtils;
@@ -10,7 +11,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.net.URLConnection;
 
-public class requestLibrAIry {
+public class requestLibrAIryAnnotationsGroups {
 
     /* Las consultas a cualquier servicio de LibrAIry se realizan con el siguiente JSON
     *       String request = "{" +
