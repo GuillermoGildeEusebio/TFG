@@ -1,4 +1,4 @@
-package com.TFG.springbootApp.service;
+package com.TFG.springbootApp.auxiliarService;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;

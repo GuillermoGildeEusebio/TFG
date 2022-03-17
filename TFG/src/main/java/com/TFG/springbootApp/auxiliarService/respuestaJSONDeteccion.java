@@ -1,4 +1,4 @@
-package com.TFG.springbootApp.service;
+package com.TFG.springbootApp.auxiliarService;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
